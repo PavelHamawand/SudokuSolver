@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestOneLetterDiff" project="edaf25" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="lab3.TestOneLetterDiff" time="0.024">
+    <testcase name="testEmpty" classname="lab3.TestOneLetterDiff" time="0.024"/>
+    <testcase name="test0" classname="lab3.TestOneLetterDiff" time="0.0"/>
+    <testcase name="test1" classname="lab3.TestOneLetterDiff" time="0.0"/>
+    <testcase name="test2" classname="lab3.TestOneLetterDiff" time="0.0"/>
+    <testcase name="test3" classname="lab3.TestOneLetterDiff" time="0.0"/>
+    <testcase name="test4" classname="lab3.TestOneLetterDiff" time="0.0"/>
+    <testcase name="testCaseDiff" classname="lab3.TestOneLetterDiff" time="0.0"/>
+  </testsuite>
+</testrun>

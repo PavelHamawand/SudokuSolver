@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestShortestPath" project="edaf25" tests="13" started="13" failures="12" errors="0" ignored="0">
+  <testsuite name="lab4.TestShortestPath" time="0.161">
+    <testcase name="cycle1" classname="lab4.TestShortestPath" time="0.129">
+      <failure>
+        <expected>7</expected>
+        <actual>0</actual>
+        Path from 0 to 2 is [] with length 0, but expected length 7.
+expected: 7
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.cycle1(TestShortestPath.java:55)
+
+
+      </failure>
+    </testcase>
+    <testcase name="cycle2" classname="lab4.TestShortestPath" time="0.003">
+      <failure>
+        <expected>6</expected>
+        <actual>0</actual>
+        Path from 0 to 2 is [] with length 0, but expected length 6.
+expected: 6
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.cycle2(TestShortestPath.java:64)
+
+
+      </failure>
+    </testcase>
+    <testcase name="cycle3" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>6</expected>
+        <actual>0</actual>
+        Path from 0 to 2 is [] with length 0, but expected length 6.
+expected: 6
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.cycle3(TestShortestPath.java:73)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph1" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>4</expected>
+        <actual>0</actual>
+        Path from 0 to 1 is [] with length 0, but expected length 4.
+expected: 4
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph1(TestShortestPath.java:84)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph2" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>1</expected>
+        <actual>0</actual>
+        Path from 0 to 4 is [] with length 0, but expected length 1.
+expected: 1
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph2(TestShortestPath.java:114)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph3" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>12</expected>
+        <actual>0</actual>
+        Path from 0 to 2 is [] with length 0, but expected length 12.
+expected: 12
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph3(TestShortestPath.java:136)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph4" classname="lab4.TestShortestPath" time="0.003">
+      <failure>
+        <expected>22</expected>
+        <actual>0</actual>
+        Path from 6 to 3 is [] with length 0, but expected length 22.
+expected: 22
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph4(TestShortestPath.java:166)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph5" classname="lab4.TestShortestPath" time="0.003">
+      <failure>
+        <expected>14</expected>
+        <actual>0</actual>
+        Path from 5 to 3 is [] with length 0, but expected length 14.
+expected: 14
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph5(TestShortestPath.java:211)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph6" classname="lab4.TestShortestPath" time="0.003">
+      <failure>
+        <expected>12</expected>
+        <actual>0</actual>
+        Path from 4 to 2 is [] with length 0, but expected length 12.
+expected: 12
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph6(TestShortestPath.java:256)
+
+
+      </failure>
+    </testcase>
+    <testcase name="dag1" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag2" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>7</expected>
+        <actual>0</actual>
+        Path from 0 to 1 is [] with length 0, but expected length 7.
+expected: 7
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.dag2(TestShortestPath.java:28)
+
+
+      </failure>
+    </testcase>
+    <testcase name="dag3" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>7</expected>
+        <actual>0</actual>
+        Path from 0 to 1 is [] with length 0, but expected length 7.
+expected: 7
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.dag3(TestShortestPath.java:37)
+
+
+      </failure>
+    </testcase>
+    <testcase name="dag4" classname="lab4.TestShortestPath" time="0.001">
+      <failure>
+        <expected>6</expected>
+        <actual>0</actual>
+        Path from 0 to 1 is [] with length 0, but expected length 6.
+expected: 6
+but was : 0
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.dag4(TestShortestPath.java:46)
+
+
+      </failure>
+    </testcase>
+  </testsuite>
+</testrun>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEdgeBetween" project="edaf25" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="lab1.TestEdgeBetween" time="0.018">
+    <testcase name="simplePath" classname="lab1.TestEdgeBetween" time="0.018"/>
+    <testcase name="disconnectedNodes" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="reverseDirectionEdges" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="loop" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="singleEdge" classname="lab1.TestEdgeBetween" time="0.0"/>
+  </testsuite>
+</testrun>

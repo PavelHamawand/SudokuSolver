@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="lab1" project="edaf25" tests="15" started="15" failures="0" errors="0" ignored="0">
+  <testsuite name="lab1.TestVertexCount" time="0.0">
+    <testcase name="vertexCount0" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount1" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount2" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount5" classname="lab1.TestVertexCount" time="0.0"/>
+  </testsuite>
+  <testsuite name="lab1.TestEdgeBetween" time="0.022">
+    <testcase name="simplePath" classname="lab1.TestEdgeBetween" time="0.02"/>
+    <testcase name="disconnectedNodes" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="reverseDirectionEdges" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="loop" classname="lab1.TestEdgeBetween" time="0.0"/>
+    <testcase name="singleEdge" classname="lab1.TestEdgeBetween" time="0.0"/>
+  </testsuite>
+  <testsuite name="lab1.TestBuildGraph" time="0.005">
+    <testcase name="test1" classname="lab1.TestBuildGraph" time="0.005"/>
+  </testsuite>
+  <testsuite name="lab1.TestEdgeCount" time="0.002">
+    <testcase name="edgeCount0" classname="lab1.TestEdgeCount" time="0.001"/>
+    <testcase name="edgeCount1" classname="lab1.TestEdgeCount" time="0.0"/>
+    <testcase name="edgeCount2" classname="lab1.TestEdgeCount" time="0.0"/>
+    <testcase name="edgeCount3" classname="lab1.TestEdgeCount" time="0.0"/>
+    <testcase name="edgeBetweenSimplePath" classname="lab1.TestEdgeCount" time="0.0"/>
+  </testsuite>
+</testrun>

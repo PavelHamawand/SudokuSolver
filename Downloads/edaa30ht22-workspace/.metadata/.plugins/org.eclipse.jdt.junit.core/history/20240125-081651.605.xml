@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestNbrOfComponents" project="edaf25" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="lab2.TestNbrOfComponents" time="0.032">
+    <testcase name="testOneVertex" classname="lab2.TestNbrOfComponents" time="0.029"/>
+    <testcase name="testThreeVerticesOneComponent" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="rearrangedComponents1" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="rearrangedComponents2" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testFiveVerticesFiveComponents" classname="lab2.TestNbrOfComponents" time="0.001"/>
+    <testcase name="testFiveVerticesThreeComponents" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testThreeVerticesTwoComponents" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testTwoVerticesOneComponent" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testFiveVerticesOneComponent" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testTwoVerticesTwoComponents" classname="lab2.TestNbrOfComponents" time="0.0"/>
+    <testcase name="testFiveVerticesTwoComponents" classname="lab2.TestNbrOfComponents" time="0.0"/>
+  </testsuite>
+</testrun>

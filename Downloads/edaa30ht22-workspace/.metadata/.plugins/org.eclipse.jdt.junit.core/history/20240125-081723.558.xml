@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestVertexCount" project="edaf25" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="lab1.TestVertexCount" time="0.0">
+    <testcase name="vertexCount0" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount1" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount2" classname="lab1.TestVertexCount" time="0.0"/>
+    <testcase name="vertexCount5" classname="lab1.TestVertexCount" time="0.0"/>
+  </testsuite>
+</testrun>

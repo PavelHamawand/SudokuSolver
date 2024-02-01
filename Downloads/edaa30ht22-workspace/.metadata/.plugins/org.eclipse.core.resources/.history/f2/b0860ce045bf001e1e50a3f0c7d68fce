@@ -1,0 +1,26 @@
+// NOT TO BE PUBLISHED ON GITHUB. DO NOT SHARE LAB SOLUTIONS.
+package lab3;
+
+/**
+ * Returns true only if both words have the same length and differ in one character.
+ * (Does not need to handle variable length characters.)
+ */
+public class OneLetterDiff implements WordCriteria {
+  @Override public boolean adjacent(String word1, String word2) {
+	  int count = 0;
+    if (word1.length() == word2.length()) {
+    	for (int i = 0; i < word1.length(); i++) {
+    		if (word1.charAt(i) != word2.charAt(i)) {
+    			count++;
+    		}
+    	}
+    	
+    }
+    if (count == 1) {
+    	return true;
+    }
+    else {
+    	return false;
+    }
+  }
+}

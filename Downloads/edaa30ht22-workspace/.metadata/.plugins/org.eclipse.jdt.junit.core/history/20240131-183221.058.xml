@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestShortestPath" project="edaf25" tests="13" started="13" failures="0" errors="0" ignored="0">
+  <testsuite name="lab4.TestShortestPath" time="0.037">
+    <testcase name="cycle1" classname="lab4.TestShortestPath" time="0.028"/>
+    <testcase name="cycle2" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="cycle3" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="graph1" classname="lab4.TestShortestPath" time="0.001"/>
+    <testcase name="graph2" classname="lab4.TestShortestPath" time="0.001"/>
+    <testcase name="graph3" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="graph4" classname="lab4.TestShortestPath" time="0.001"/>
+    <testcase name="graph5" classname="lab4.TestShortestPath" time="0.002"/>
+    <testcase name="graph6" classname="lab4.TestShortestPath" time="0.001"/>
+    <testcase name="dag1" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag2" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag3" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag4" classname="lab4.TestShortestPath" time="0.001"/>
+  </testsuite>
+</testrun>

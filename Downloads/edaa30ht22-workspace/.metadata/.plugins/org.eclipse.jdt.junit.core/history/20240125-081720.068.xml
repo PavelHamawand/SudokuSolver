@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEdgeCount" project="edaf25" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="lab1.TestEdgeCount" time="0.019">
+    <testcase name="edgeCount0" classname="lab1.TestEdgeCount" time="0.018"/>
+    <testcase name="edgeCount1" classname="lab1.TestEdgeCount" time="0.0"/>
+    <testcase name="edgeCount2" classname="lab1.TestEdgeCount" time="0.0"/>
+    <testcase name="edgeCount3" classname="lab1.TestEdgeCount" time="0.001"/>
+    <testcase name="edgeBetweenSimplePath" classname="lab1.TestEdgeCount" time="0.0"/>
+  </testsuite>
+</testrun>

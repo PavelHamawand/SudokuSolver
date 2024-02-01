@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestWordLadders" project="edaf25" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="lab3.TestWordLadders" time="1.721">
+    <testcase name="test3Medium" classname="lab3.TestWordLadders" time="0.694"/>
+    <testcase name="test4Big" classname="lab3.TestWordLadders" time="1.008"/>
+    <testcase name="test1" classname="lab3.TestWordLadders" time="0.014"/>
+    <testcase name="test2" classname="lab3.TestWordLadders" time="0.004"/>
+  </testsuite>
+</testrun>

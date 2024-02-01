@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestPathExists" project="edaf25" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="lab2.TestPathExists" time="0.026">
+    <testcase name="testTwoVerticesNoPath" classname="lab2.TestPathExists" time="0.023"/>
+    <testcase name="testOneVertex" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testThreeVerticesNoPath" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testFiveVerticesFiveComponents" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="test6" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testThreeVerticesPathsExist" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testTwoVerticesPathExists1" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testTwoVerticesPathExists2" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testFiveVerticesTwoComponents" classname="lab2.TestPathExists" time="0.0"/>
+    <testcase name="testFiveVerticesPathsExist" classname="lab2.TestPathExists" time="0.0"/>
+  </testsuite>
+</testrun>

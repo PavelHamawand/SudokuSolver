@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestFindPath" project="edaf25" tests="5" started="5" failures="4" errors="0" ignored="0">
+  <testsuite name="lab2.TestFindPath" time="0.1">
+    <testcase name="testTwoVerticesNoPath" classname="lab2.TestFindPath" time="0.02"/>
+    <testcase name="testOneVertex" classname="lab2.TestFindPath" time="0.07">
+      <failure>missing (1): 0
+---
+expected   : [0]
+but was    : []
+	at lab2.TestFindPath.testOneVertex(TestFindPath.java:18)
+
+</failure>
+    </testcase>
+    <testcase name="testPathOfTwoVertices" classname="lab2.TestFindPath" time="0.002">
+      <failure>missing (2): 0, 1
+---
+expected   : [0, 1]
+but was    : []
+	at lab2.TestFindPath.testPathOfTwoVertices(TestFindPath.java:32)
+
+</failure>
+    </testcase>
+    <testcase name="testPathOfThreeVertices" classname="lab2.TestFindPath" time="0.002">
+      <failure>missing (3): 1, 0, 2
+---
+expected   : [1, 0, 2]
+but was    : []
+	at lab2.TestFindPath.testPathOfThreeVertices(TestFindPath.java:41)
+
+</failure>
+    </testcase>
+    <testcase name="testPathOfFiveVertices" classname="lab2.TestFindPath" time="0.005">
+      <failure>missing (5): 4, 3, 2, 1, 0
+---
+expected   : [4, 3, 2, 1, 0]
+but was    : []
+	at lab2.TestFindPath.testPathOfFiveVertices(TestFindPath.java:52)
+
+</failure>
+    </testcase>
+  </testsuite>
+</testrun>

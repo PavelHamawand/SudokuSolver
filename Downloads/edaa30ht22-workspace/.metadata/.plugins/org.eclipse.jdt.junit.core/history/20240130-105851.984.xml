@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestShortestPath" project="edaf25" tests="13" started="13" failures="8" errors="0" ignored="0">
+  <testsuite name="lab4.TestShortestPath" time="0.157">
+    <testcase name="cycle1" classname="lab4.TestShortestPath" time="0.133">
+      <failure>
+        <expected>7</expected>
+        <actual>13</actual>
+        Path from 0 to 2 is [0, 2] with length 13, but expected length 7.
+expected: 7
+but was : 13
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.cycle1(TestShortestPath.java:55)
+
+
+      </failure>
+    </testcase>
+    <testcase name="cycle2" classname="lab4.TestShortestPath" time="0.001"/>
+    <testcase name="cycle3" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="graph1" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>4</expected>
+        <actual>8</actual>
+        Path from 0 to 1 is [0, 1] with length 8, but expected length 4.
+expected: 4
+but was : 8
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph1(TestShortestPath.java:84)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph2" classname="lab4.TestShortestPath" time="0.003">
+      <failure>
+        <expected>4</expected>
+        <actual>9</actual>
+        Path from 0 to 2 is [0, 2] with length 9, but expected length 4.
+expected: 4
+but was : 9
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph2(TestShortestPath.java:116)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph3" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>15</expected>
+        <actual>30</actual>
+        Path from 0 to 5 is [0, 5] with length 30, but expected length 15.
+expected: 15
+but was : 30
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph3(TestShortestPath.java:137)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph4" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>19</expected>
+        <actual>27</actual>
+        Path from 4 to 3 is [4, 3] with length 27, but expected length 19.
+expected: 19
+but was : 27
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph4(TestShortestPath.java:168)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph5" classname="lab4.TestShortestPath" time="0.004">
+      <failure>
+        <expected>17</expected>
+        <actual>21</actual>
+        Path from 5 to 0 is [5, 2, 0] with length 21, but expected length 17.
+expected: 17
+but was : 21
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph5(TestShortestPath.java:218)
+
+
+      </failure>
+    </testcase>
+    <testcase name="graph6" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>29</expected>
+        <actual>35</actual>
+        Path from 0 to 6 is [0, 2, 6] with length 35, but expected length 29.
+expected: 29
+but was : 35
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.graph6(TestShortestPath.java:258)
+
+
+      </failure>
+    </testcase>
+    <testcase name="dag1" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag2" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag3" classname="lab4.TestShortestPath" time="0.0"/>
+    <testcase name="dag4" classname="lab4.TestShortestPath" time="0.002">
+      <failure>
+        <expected>6</expected>
+        <actual>7</actual>
+        Path from 0 to 1 is [0, 1] with length 7, but expected length 6.
+expected: 6
+but was : 7
+	at lab4.TestShortestPath.assertPathLength(TestShortestPath.java:283)
+	at lab4.TestShortestPath.dag4(TestShortestPath.java:46)
+
+
+      </failure>
+    </testcase>
+  </testsuite>
+</testrun>

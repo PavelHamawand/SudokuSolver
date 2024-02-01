@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestConnected" project="edaf25" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="lab2.TestConnected" time="0.027">
+    <testcase name="twoVerticesConnected1" classname="lab2.TestConnected" time="0.025"/>
+    <testcase name="twoVerticesConnected2" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="testNotConnectedThreeVertices" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="testNotConnectedFiveVertices" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="testConnectedFiveVertices" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="twoVerticesNoEdge" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="testConnectedThreeVertices" classname="lab2.TestConnected" time="0.0"/>
+    <testcase name="oneVertex" classname="lab2.TestConnected" time="0.0"/>
+  </testsuite>
+</testrun>
